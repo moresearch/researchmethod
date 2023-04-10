@@ -6,19 +6,21 @@ Profa. Maria Camila Nardini Barioni
 Research Problem:
     - Game Theoretic Models, e.g. staghunt, in Software Engineering
     - And how to discover such models from data?
+# Game theory is a branch of mathematical analysis that studies decsion-making in strategic situations, by analyzing the behavior of individuals in situations of conflict and cooperation, where the decsions of one player or actor affect the outcomes for other players. For example The staghunt model is a game theoretic model that illustratre the trade-off between cooperation and competition. It refers to a situation where two individuals decide whether to work together to hunt a stag or to hunt a hare alone.
+# Hunting a stag requires both invididuals to cooperate(such as cooperation on the same opensource project), while hunting a hare can be done independently(such as in working on a fork project instead of cooeprating to a main project).
+# The Model shows the importrance of trust and coorination in achieving optimal outcomes.
 
 Research Hypothesis:
-    - Given opensource projects Data,e.g. github , such models are discoverable. 
+    - Given opensource projects Data, e.g. github , such game theoretic models are discoverable. 
+# via formulating the hypothsis that by analyzing data about opensource projects that involves strategic situation, we may be able to discover game theoretic models that matches such strategic situtations. 
 
 Research Methdology:
      Empirical Research Method of hypothesis testing via experimentations.
-
-# via formulating the hypothsis that by analyzing data about opensource projects that involves strategic situation, we may be able to discover game theoretic models that matches such strategic situtations. 
+# Empirical research method is a type of research that relies on observation, experience, and evidence-based data to form conclusions from testing a hypthesis. and as such in involves collecting and analyazing data from the real-world. 
 
 Currently Unkown about the Research:
     - Data Engineering Tasks
     - Foundationally important for testing the hypothesis via experimentation 
-
 # e.g. data acqusition, data transformation, data storage, data processing, etc. is the first uknown in the research at the current stage. And it is important to clarify such data engineering tasks as it is important for testing the hypothesis via experimentation. 
 
 Thank You
