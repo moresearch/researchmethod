@@ -1,0 +1,25 @@
+Game Discovery in Opensource Software Engineering
+Student: Mohamed A. Fouad 
+PGC001 Metodologia de Pesquisa em Computação 
+Profa. Maria Camila Nardini Barioni
+
+Research Problem:
+    - Game Theoretic Models, e.g. staghunt, in Software Engineering
+    - And how to discover such models from data?
+
+Research Hypothesis:
+    - Given opensource projects Data,e.g. github , such models are discoverable. 
+
+Research Methdology:
+     Empirical Research Method of hypothesis testing via experimentations.
+
+# via formulating the hypothsis that by analyzing data about opensource projects that involves strategic situation, we may be able to discover game theoretic models that matches such strategic situtations. 
+
+Currently Unkown about the Research:
+    - Data Engineering Tasks
+    - Foundationally important for testing the hypothesis via experimentation 
+
+# e.g. data acqusition, data transformation, data storage, data processing, etc. is the first uknown in the research at the current stage. And it is important to clarify such data engineering tasks as it is important for testing the hypothesis via experimentation. 
+
+Thank You
+Questions?
